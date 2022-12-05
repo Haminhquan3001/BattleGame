@@ -394,7 +394,7 @@ Creature 1 has -63 hit points.
 
 Tie!!
 
-D:\CIS 22 B\Assignment 7\Project1\Debug\Project1.exe (process 52136) exited with code 0.
+Project exited with code 0.
 Press any key to close this window . . .
 
 
@@ -421,7 +421,7 @@ Creature 1 has -50 hit points.
 
 Creature 2 wins!
 
-D:\CIS 22 B\Assignment 7\Project1\Debug\Project1.exe (process 19776) exited with code 0.
+Project exited with code 0.
 Press any key to close this window . . .
 
 
@@ -448,7 +448,7 @@ Creature 1 has 23 hit points.
 
 Creature 1 wins!
 
-D:\CIS 22 B\Assignment 7\Project1\Debug\Project1.exe (process 15388) exited with code 0.
+Project exited with code 0.
 Press any key to close this window . . .
 
 
